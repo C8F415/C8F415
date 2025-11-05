@@ -7,11 +7,10 @@
 _**im trying to get into programming, im quite new to it, well how can i put it, i think so. my focus is on digital-design, front-end and inventing extensions for your any services + mods for games. i want to get better, for more help to my loved ones. i also like rice with egg, khachapuri, phonk and indie games.**_
 
 ## <img src="https://i.imgur.com/LMXhKoG.png">
+![C#](https://img.shields.io/badge/CSharp-00599C?style=for-the-badge&labelColor=black&logo=sharp&logoColor=00599C)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F7DF1E)
 ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&labelColor=black&logo=css&logoColor=blue)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&labelColor=black&logo=kotlin&logoColor=7F52FF)
-![Java](https://img.shields.io/badge/Java-C5C5C5?style=for-the-badge&labelColor=black&logo=java&logoColor=F7DF1E)
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&labelColor=black&logo=ruby&logoColor=CC342D)
 
 
@@ -48,8 +47,8 @@ _**if you like my repositories, or any other modding solutions, extensions. tho 
 
 ### <img src="https://i.imgur.com/9KwWAN9.png">
 ![Gmail](https://img.shields.io/badge/filet2023@gmail.com-EA4335?style=for-the-badge&labelColor=black&logo=gmail&logoColor=EA4335)
-![Discord](https://img.shields.io/badge/aurinthiel-5865F2?style=for-the-badge&labelColor=black&logo=discord&logoColor=5865F2)
-![Telegram](https://img.shields.io/badge/@kaituchi-26A5E4?style=for-the-badge&labelColor=black&logo=telegram&logoColor=26A5E4)
-![Instagram](https://img.shields.io/badge/@aurinthiel-FF0069?style=for-the-badge&labelColor=black&logo=instagram&logoColor=FF0069)
+![Discord](https://img.shields.io/badge/C8F415-5865F2?style=for-the-badge&labelColor=black&logo=discord&logoColor=5865F2)
+![Telegram](https://img.shields.io/badge/@C8F415-26A5E4?style=for-the-badge&labelColor=black&logo=telegram&logoColor=26A5E4)
+![Instagram](https://img.shields.io/badge/@C8F415-FF0069?style=for-the-badge&labelColor=black&logo=instagram&logoColor=FF0069)
 
 <img src="https://i.imgur.com/Ujy02bg.png">
